@@ -22,7 +22,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #3eea3e;
+  background-color: #1c7f15;
   top: 0;
   width: 100%;
   text-align: center;
@@ -44,11 +44,11 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: #e90101;
 }
 
 nav #active{
-  background-color: darkgreen;
+  background-color: #f1e90e;
 }
 
 /* Styling for the main section*/
